@@ -1,0 +1,11 @@
+
+.close{
+    position: absolute;
+    right: 9px;
+    top: 5px;
+}
+
+.list-group-item{
+    margin-top: 5px;
+}
+
